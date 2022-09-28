@@ -1,0 +1,21 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+}
+body  {
+    border: 20vh;
+    min-height: 100vh;
+    background-color: plum;
+    color:whitesmoke ;
+    display:grid;
+    place-items:center;
+}
+section
+   { background-color: pink;
+    padding: 20px;
+    border-radius: 9px;
+    text-align: center;
+}
+p  { 
+    font-size: 100px;
+}
